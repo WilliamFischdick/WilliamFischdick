@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor Front-End.
 - 🔭 Atualmente trabalho desenvolvendo páginas web em geral.
-- 🌱 Estou estudando JavaScript e incorporando mais funcionalidades aos meus projetos.
+- 🌱 Ampliando os conhecimentos em JavaScript e incorporando mais funcionalidades aos meus projetos.
 
 <br><br>
 
